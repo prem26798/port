@@ -829,14 +829,13 @@ form {
   color: #ffffff;
   font-size: 26px;
   font-weight: bold;
-  font-size: 33px;
+  font-size: 29px;
   line-height: 33px;
   font-family: monospace;
 }
 .cardDiv .col-12 ul {
   font-size: 1.2rem;
-  margin: 6px 34px;
   letter-spacing: 2px;
-  line-height: 45px;
-  overflow-wrap: anywhere;
+  line-height: 40px;
+  margin: 8px 6px 1px 23px;
 }
