@@ -743,19 +743,6 @@ footer span a:hover {
   display: flex;
 }
 
-.card {
-  width: 50%;
-  height: auto;
-  border: 3px solid black;
-  border-radius: 0px;
-  padding: 20px 15px;
-  margin-top: 20px;
-  margin-left: 20pt;
-  margin-right: 20pt;
-  text-align: LEFT;
-  background-color: white;
-  color: black;
-}
 
 P {
   font-size: 15pt;
@@ -804,7 +791,7 @@ form {
 
 .cardDiv {
   display: flex;
-  padding: 43px;
+  padding: 10px;
   /* width: 45%; */
   justify-content: flex-start;
   border: 2px groove white;
