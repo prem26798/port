@@ -593,8 +593,8 @@ footer span a:hover {
 /* responsive media query start */
 @media (max-width: 1104px) {
   .about .about-content .left img {
-    /* height: 350px;
-    width: 350px; */
+    height: 350px;
+    width: 350px;
   }
 }
 
@@ -665,6 +665,12 @@ footer span a:hover {
   .contact .contact-content .column {
     width: 100%;
     margin-bottom: 35px;
+  }
+  .about .about-content,
+  .project .serv-content,
+  .skills .skills-content,
+  .contact .contact-content {
+    display: block;
   }
 }
 
