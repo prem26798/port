@@ -50,6 +50,8 @@ footer {
 .skills .skills-content,
 .contact .contact-content {
   display: flex;
+  justify-content: center;
+  gap: 5rem;
 }
 section .title {
   position: relative;
