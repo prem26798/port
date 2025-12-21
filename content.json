@@ -1,0 +1,127 @@
+{
+  "resumeMeta": {
+    "name": "Prem Kumar",
+    "title": "Frontend Developer (Angular, React) | Power Platform Specialist",
+    "resumeFile": "assets/resumes/Prem_Kumar_Resume_Technology_Analyst.pdf",
+    "email": "premkumar26798@gmail.com",
+    "phone": "+91 7979083191"
+  },
+  "home": {
+    "intro": "Hello, my name is",
+    "name": "Prem Kumar",
+    "summary": "Frontend Developer & Power Platform Specialist with 4.5+ years of experience building scalable web applications and enterprise solutions.",
+    "image": "assets/images/profilePic.png",
+    "typing": ["Frontend Developer", "React & Angular Specialist", "Power Platform Developer"]
+  },
+  "about": {
+    "image": "assets/images/introduction2.png",
+    "paragraphs": [
+      "Frontend & Power Platform Developer with 4.5+ years of experience delivering scalable web applications, enterprise workflows, and responsive UI systems using Angular, React, Power Pages, Power Apps, and Dataverse.",
+      "Strong expertise in reusable component architecture, UI performance optimization, automation-driven business solutions, and clean, maintainable code.",
+      "Proven delivery of production-ready applications with focus on user experience, accessibility, and cross-team collaboration."
+    ]
+  },
+  "experiences": [
+    {
+      "company": "Infosys Limited, Bangalore",
+      "logo": "assets/images/infosys-logo-jpeg.jpg",
+      "role": "Technology Analyst — Frontend & Power Platform Developer",
+      "dates": "June 2022 – Present",
+      "bullets": [
+        "Developed scalable, responsive frontend applications using Angular, React, HTML5, CSS3, Bootstrap, and Tailwind CSS, improving usability, SEO, and mobile experience across enterprise platforms",
+        "Designed and maintained a shared UI component library, ensuring design consistency, modular architecture, and faster development cycles across multiple projects",
+        "Implemented interactive data visualizations using amCharts, transforming complex datasets into intuitive dashboards for business users",
+        "Diagnosed and resolved complex UI and integration issues, ensuring optimal performance, stability, and seamless user experience",
+        "Maintained a well-structured and well-documented codebase, enabling smooth onboarding of new developers and efficient cross-team collaboration",
+        "Applied advanced Angular concepts including RxJS, Observables, interceptors, dependency injection, and modular design patterns to build scalable and maintainable applications"
+      ]
+    },
+    {
+      "company": "UST Global, Bangalore",
+      "logo": "https://etimg.etb2bimg.com/photo/80342670.cms",
+      "role": "Developer I — Software Engineering",
+      "dates": "June 2021 – June 2022",
+      "bullets": [
+        "Developed and enhanced frontend interfaces and user experiences for enterprise applications supporting an Intel client project",
+        "Built and maintained Angular-based UI components with a strong focus on performance, responsiveness, and maintainable code",
+        "Designed and delivered interactive, data-driven dashboards using amCharts, enabling engineers to analyze quality indicators and technical metrics efficiently",
+        "Created reusable and modular UI components, improving consistency and reducing development effort across multiple application modules",
+        "Collaborated with client stakeholders and backend teams for requirements gathering and seamless integration"
+      ]
+    }
+  ],
+  "enterpriseProjects": [
+    {
+      "title": "Meridian – Web Conferencing Platform",
+      "company": "Infosys (Internal Product)",
+      "description": "Developed features including real-time chat, Q&A modules, and configurable charts for virtual meetings and webinars.",
+      "techStack": ["Angular", "React", "HTML/CSS", "Bootstrap", "Node.js", "MySQL", "amCharts"]
+    },
+    {
+      "title": "ENOWA Request Tracking Application",
+      "company": "Infosys (Enterprise Project – NEOM)",
+      "description": "Designed and developed a centralized request tracking application using Microsoft Power Platform to manage energy-related and operational requests. Enabled users to create, assign, track, and monitor requests through structured workflows and automated notifications. Improved process transparency and turnaround time using Power Automate workflows and Dataverse models.",
+      "techStack": ["Power Pages", "Power Apps", "Power Automate", "Dataverse"]
+    },
+    {
+      "title": "Community Sites – Music & Scuba Clubs",
+      "company": "Infosys (Enterprise Project – NEOM)",
+      "description": "Delivered polished, responsive interfaces with strong emphasis on usability, accessibility, and visual consistency for community engagement platforms.",
+      "techStack": ["Power Pages", "Power Apps", "Power Automate", "Dataverse", "Figma", "HTML", "CSS"]
+    },
+    {
+      "title": "Angular Design System / Seed Kit",
+      "company": "Infosys (Healthcare Program – UK)",
+      "description": "Part of the core UI engineering team developing an Angular Seed Kit / Design System for a large-scale UK healthcare program. Built Storybook-driven reusable components including typography systems, color tokens, spacing, buttons, and atomic UI elements.",
+      "techStack": ["Angular", "Storybook", "TypeScript", "SCSS"]
+    },
+    {
+      "title": "Client Quality Indicator Dashboard",
+      "company": "UST Global (Intel)",
+      "description": "Developed a dashboard-driven application to monitor and visualize product quality metrics for Intel engineering teams. Improved data analysis efficiency through clear visual representations and well-structured Angular components.",
+      "techStack": ["Angular", "JavaScript", "TypeScript", "HTML", "CSS", "amCharts"]
+    },
+    {
+      "title": "IP Comparison Tool",
+      "company": "UST Global (Intel)",
+      "description": "Built UI features to compare power output and performance metrics across different platforms. Focused on responsive layouts and intuitive data presentation for complex engineering datasets.",
+      "techStack": ["Angular", "JavaScript", "TypeScript", "HTML", "CSS", "amCharts"]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Old Portfolio",
+      "link": "https://learnangular-9afba.web.app/",
+      "description": "Personal Angular portfolio built with Angular framework, showcasing frontend development skills",
+      "embed": "https://learnangular-9afba.web.app/"
+    },
+    {
+      "title": "Adventure India",
+      "link": "https://prem26798.github.io/adventureIndia",
+      "description": "Static travel and adventure website demo hosted on GitHub Pages",
+      "embed": "https://prem26798.github.io/adventureIndia"
+    }
+  ],
+  "skills": [
+    { "name": "Angular", "percent": 85 },
+    { "name": "React", "percent": 90 },
+    { "name": "HTML & CSS", "percent": 90 },
+    { "name": "JavaScript/TypeScript", "percent": 90 },
+    { "name": "Power Platform", "percent": 80 },
+    { "name": "Tailwind CSS", "percent": 85 },
+    { "name": "Node.js", "percent": 75 },
+    { "name": "Git & GitHub", "percent": 85 }
+  ],
+  "contact": {
+    "name": "Prem Kumar",
+    "phone": "+91 7979083191",
+    "address": "Bangalore, India",
+    "email": "premkumar26798@gmail.com",
+    "formAction": "https://getform.io/f/76db4bb9-32de-4fd4-9ff4-a6f047f72f95"
+  },
+  "socialLinks": [
+    { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/prem-kumar-1b2639187/", "icon": "assets/images/linkedin-3.png" },
+    { "platform": "GitHub", "url": "https://github.com/prem26798", "icon": "assets/images/gitHubTrasn.png" },
+    { "platform": "Facebook", "url": "https://www.facebook.com/profile.php?id=100013537477374", "icon": "assets/images/facebook-2.png" }
+  ]
+}
