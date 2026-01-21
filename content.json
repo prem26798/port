@@ -88,20 +88,26 @@
       "techStack": ["Angular", "JavaScript", "TypeScript", "HTML", "CSS", "amCharts"]
     }
   ],
-  "projects": [
-    {
-      "title": "Old Portfolio",
-      "link": "https://learnangular-9afba.web.app/",
-      "description": "Personal Angular portfolio built with Angular framework, showcasing frontend development skills",
-      "embed": "https://learnangular-9afba.web.app/"
-    },
-    {
-      "title": "Adventure India",
-      "link": "https://prem26798.github.io/adventureIndia",
-      "description": "Static travel and adventure website demo hosted on GitHub Pages",
-      "embed": "https://prem26798.github.io/adventureIndia"
-    }
-  ],
+"projects": [
+  {
+    "title": "Prompt Library",
+    "link": "https://prompt-library-ui.vercel.app/",
+    "description": "A production-ready full-stack platform for discovering, creating, and reusing high-quality AI prompts. Built with React, TypeScript, Node.js, PostgreSQL, and cloud deployments on Vercel and Render with automated CI/CD.",
+    "embed": "https://prompt-library-ui.vercel.app/"
+  },
+  {
+    "title": "Personal Portfolio (Angular)",
+    "link": "https://learnangular-9afba.web.app/",
+    "description": "A responsive personal portfolio built using Angular, showcasing frontend engineering skills, component-based architecture, and clean UI design principles.",
+    "embed": "https://learnangular-9afba.web.app/"
+  },
+  {
+    "title": "Adventure India",
+    "link": "https://prem26798.github.io/adventureIndia",
+    "description": "A static travel and adventure showcase website built with modern HTML, CSS, and JavaScript, deployed on GitHub Pages to demonstrate layout design and responsive web fundamentals.",
+    "embed": "https://prem26798.github.io/adventureIndia"
+  }
+],
   "skills": [
     { "name": "Angular", "percent": 85 },
     { "name": "React", "percent": 90 },
