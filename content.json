@@ -1,7 +1,7 @@
 {
   "resumeMeta": {
     "name": "Prem Kumar",
-    "title": "Frontend Developer (Angular, React) | Power Platform Specialist",
+    "title": "Senior Associate | Frontend & Power Platform Specialist",
     "resumeFile": "assets/resumes/Prem_Kumar_Resume_Technology_Analyst.pdf",
     "email": "premkumar26798@gmail.com",
     "phone": "+91 7979083191"
@@ -9,47 +9,61 @@
   "home": {
     "intro": "Hello, my name is",
     "name": "Prem Kumar",
-    "summary": "Frontend Developer & Power Platform Specialist with 4.5+ years of experience building scalable web applications and enterprise solutions.",
+    "summary": "Senior Associate with 4.5+ years of experience driving high-impact frontend and Power Platform solutions for enterprise customers.",
     "image": "assets/images/profilePic.png",
     "typing": ["Frontend Developer", "React & Angular Specialist", "Power Platform Developer"]
   },
   "about": {
     "image": "assets/images/introduction2.png",
     "paragraphs": [
-      "Frontend & Power Platform Developer with 4.5+ years of experience delivering scalable web applications, enterprise workflows, and responsive UI systems using Angular, React, Power Pages, Power Apps, and Dataverse.",
-      "Strong expertise in reusable component architecture, UI performance optimization, automation-driven business solutions, and clean, maintainable code.",
-      "Proven delivery of production-ready applications with focus on user experience, accessibility, and cross-team collaboration."
+      "Frontend & Power Platform Specialist with 4.5+ years of expertise delivering scalable enterprise solutions using Angular, React, Power Pages, Power Apps, and Dataverse.",
+      "Proven skills in reusable component architecture, UI performance optimization, automation-driven business workflows, and clean maintainable code.",
+      "Experienced in building production-ready applications with strong user experience, accessibility, responsive design, and cross-team collaboration."
     ]
   },
-  "experiences": [
-    {
-      "company": "Infosys Limited, Bangalore",
-      "logo": "assets/images/infosys-logo-jpeg.jpg",
-      "role": "Technology Analyst — Frontend & Power Platform Developer",
-      "dates": "June 2022 – Present",
-      "bullets": [
-        "Developed scalable, responsive frontend applications using Angular, React, HTML5, CSS3, Bootstrap, and Tailwind CSS, improving usability, SEO, and mobile experience across enterprise platforms",
-        "Designed and maintained a shared UI component library, ensuring design consistency, modular architecture, and faster development cycles across multiple projects",
-        "Implemented interactive data visualizations using amCharts, transforming complex datasets into intuitive dashboards for business users",
-        "Diagnosed and resolved complex UI and integration issues, ensuring optimal performance, stability, and seamless user experience",
-        "Maintained a well-structured and well-documented codebase, enabling smooth onboarding of new developers and efficient cross-team collaboration",
-        "Applied advanced Angular concepts including RxJS, Observables, interceptors, dependency injection, and modular design patterns to build scalable and maintainable applications"
-      ]
-    },
-    {
-      "company": "UST Global, Bangalore",
-      "logo": "https://etimg.etb2bimg.com/photo/80342670.cms",
-      "role": "Developer I — Software Engineering",
-      "dates": "June 2021 – June 2022",
-      "bullets": [
-        "Developed and enhanced frontend interfaces and user experiences for enterprise applications supporting an Intel client project",
-        "Built and maintained Angular-based UI components with a strong focus on performance, responsiveness, and maintainable code",
-        "Designed and delivered interactive, data-driven dashboards using amCharts, enabling engineers to analyze quality indicators and technical metrics efficiently",
-        "Created reusable and modular UI components, improving consistency and reducing development effort across multiple application modules",
-        "Collaborated with client stakeholders and backend teams for requirements gathering and seamless integration"
-      ]
-    }
-  ],
+"experiences": [
+  {
+    "company": "PwC India, Kolkata",
+    "logo": "assets/images/pwcLogo.png",
+    "role": "Senior Associate — Power Platform Solution Architect",
+    "dates": "March 2026 – Present",
+    "bullets": [
+      "Collaborated with clients to gather business requirements and architect end-to-end enterprise solutions using Microsoft Power Platform.",
+      "Developed scalable Power Pages, Power Apps, Power Automate, Dataverse, and Copilot Studio solutions for business-critical workflows.",
+      "Built secure, customized Power Pages portals with HTML, CSS, JavaScript, Liquid, and advanced Dataverse integrations.",
+      "Designed automation workflows, data models, security roles, and integrations to deliver scalable digital operations.",
+      "Delivered AI-powered copilots using Copilot Studio and Dataverse to enhance business processes and decision support.",
+      "Led solution delivery, mentored junior developers, and coordinated cross-functional teams throughout the project lifecycle."
+    ]
+  },
+  {
+    "company": "Infosys Limited, Bangalore",
+    "logo": "assets/images/infosys-logo-jpeg.jpg",
+    "role": "Technology Analyst — Frontend & Power Platform Developer",
+    "dates": "June 2022 – February 2026",
+    "bullets": [
+      "Developed scalable, responsive frontend applications using Angular, React, HTML5, CSS3, Bootstrap, and Tailwind CSS for enterprise platforms.",
+      "Designed and maintained a shared UI component library to ensure design consistency, modular architecture, and faster delivery.",
+      "Implemented interactive amCharts dashboards and visualizations to make complex data intuitive for business users.",
+      "Resolved UI and integration issues to improve performance, stability, and user experience across applications.",
+      "Maintained clean code, documentation, and release-ready patterns to support onboarding and collaborative delivery.",
+      "Applied advanced Angular concepts including RxJS, Observables, interceptors, dependency injection, and modular design patterns."
+    ]
+  },
+  {
+    "company": "UST Global, Bangalore",
+    "logo": "https://etimg.etb2bimg.com/photo/80342670.cms",
+    "role": "Developer I — Software Engineering",
+    "dates": "June 2021 – June 2022",
+    "bullets": [
+      "Developed and enhanced frontend interfaces for enterprise applications supporting Intel engineering workflows.",
+      "Built and maintained Angular-based UI components with a strong focus on performance, responsiveness, and maintainability.",
+      "Designed and delivered interactive, data-driven dashboards using amCharts to make technical metrics actionable.",
+      "Created reusable and modular UI components to improve consistency and reduce development effort.",
+      "Collaborated with client stakeholders and backend teams for requirements gathering and seamless integration."
+    ]
+  }
+],
   "enterpriseProjects": [
     {
       "title": "Meridian – Web Conferencing Platform",
@@ -92,31 +106,33 @@
   {
     "title": "Prompt Library",
     "link": "https://prompt-library-ui.vercel.app/",
-    "description": "A production-ready full-stack platform for discovering, creating, and reusing high-quality AI prompts. Built with React, TypeScript, Node.js, PostgreSQL, and cloud deployments on Vercel and Render with automated CI/CD.",
+      "description": "Enterprise-ready AI prompt library with role-based access, dynamic filtering, and automated CI/CD deployment. Built in React + TypeScript with server-side Node.js and PostgreSQL integration.",
     "embed": "https://prompt-library-ui.vercel.app/"
   },
   {
     "title": "Personal Portfolio (Angular)",
     "link": "https://learnangular-9afba.web.app/",
-    "description": "A responsive personal portfolio built using Angular, showcasing frontend engineering skills, component-based architecture, and clean UI design principles.",
+      "description": "A polished, high-impact portfolio experience designed for recruiters and technical stakeholders, showcasing Angular component architecture, responsive UI, and performance optimizations.",
     "embed": "https://learnangular-9afba.web.app/"
   },
   {
     "title": "Adventure India",
     "link": "https://prem26798.github.io/adventureIndia",
-    "description": "A static travel and adventure showcase website built with modern HTML, CSS, and JavaScript, deployed on GitHub Pages to demonstrate layout design and responsive web fundamentals.",
+      "description": "A premium travel showcase with curated layouts, accessible interactions, and pixel-perfect responsive design. Deployed via GitHub Pages as a modern web experience.",
     "embed": "https://prem26798.github.io/adventureIndia"
   }
 ],
   "skills": [
-    { "name": "Angular", "percent": 85 },
-    { "name": "React", "percent": 90 },
-    { "name": "HTML & CSS", "percent": 90 },
-    { "name": "JavaScript/TypeScript", "percent": 90 },
-    { "name": "Power Platform", "percent": 80 },
-    { "name": "Tailwind CSS", "percent": 85 },
-    { "name": "Node.js", "percent": 75 },
-    { "name": "Git & GitHub", "percent": 85 }
+    { "name": "Angular", "percent": 92 },
+    { "name": "React", "percent": 94 },
+    { "name": "HTML5 & CSS3", "percent": 96 },
+    { "name": "JavaScript/TypeScript", "percent": 95 },
+    { "name": "Power Platform (Power Apps, Power Automate)", "percent": 90 },
+    { "name": "Dataverse & Power Pages", "percent": 88 },
+    { "name": "Responsive UI / Tailwind / Bootstrap", "percent": 92 },
+    { "name": "Node.js / REST APIs", "percent": 82 },
+    { "name": "Git/GitHub/GitLab/CI", "percent": 90 },
+    { "name": "Design Systems / Figma", "percent": 85 }
   ],
   "contact": {
     "name": "Prem Kumar",
